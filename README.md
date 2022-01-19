@@ -1,2 +1,2 @@
-# Algorithms
-Coding Test Practice
+# CodingTest-Practice
+
