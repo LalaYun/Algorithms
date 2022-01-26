@@ -30,7 +30,8 @@ def solution(dartResult):
             stack.append(a)
 
         elif dartResult[i] == '#' :
-            stack.append((-1) * stack.pop())
+            c = (-1) * stack.pop()
+            stack.append(c)
     
     while (stack):
         answer += stack.pop()
