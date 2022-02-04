@@ -1,5 +1,3 @@
-#스택사용 | deque 라이브러리 : que & stack
-
 from collections import deque
 
 def solution(dartResult):
